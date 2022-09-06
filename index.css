@@ -82,6 +82,14 @@ nav > a:hover {
     border: none;
 }
 
+#container > .search:hover {
+    box-shadow: 0 6px 5px #dfe1e5;
+}
+
+#container > .search > input:focus {
+    outline: none;
+}
+
 #container > .options {
     margin-top: 30px;
 }
