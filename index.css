@@ -80,6 +80,7 @@ nav > a:hover {
 #container > .search > input {
     width: 425px;
     border: none;
+    font-size: 16px;
 }
 
 #container > .search:hover {
